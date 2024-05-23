@@ -4,8 +4,8 @@
   <groupId>com.mycompany.app</groupId>
   <artifactId>my-app</artifactId>
   <packaging>war</packaging>
-  <version>${project.version}</version>
-  <name>${project.name}</name>
+  <version>4.0.0</version>
+  <name>MyApp</name>
   <url>https://maven.apache.org</url>
   <dependencies>
     <dependency>
